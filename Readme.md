@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thanaphat Ditsa</h1>
-<h3 align="center">A Studen from Princess Chulabhorn Science High school Phitsanulok</h3>
+<h3 align="center">A Student from Princess Chulabhorn Science High school Phitsanulok</h3>
 
 - 🔭 I’m currently working on [PCHS PL Study table](https://pcshsplstd.000webhostapp.com/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
